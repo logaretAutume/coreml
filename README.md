@@ -1,4 +1,4 @@
-# command
+# nes
 
 React + TailwindCSS bundled with Vite.
 
