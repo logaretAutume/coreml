@@ -1,4 +1,4 @@
-# LeFranX
+# command
 
 React + TailwindCSS bundled with Vite.
 
