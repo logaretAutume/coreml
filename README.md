@@ -1,4 +1,4 @@
-# nes
+# Footprints
 
 React + TailwindCSS bundled with Vite.
 
